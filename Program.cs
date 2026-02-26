@@ -6,7 +6,8 @@ namespace CALCIMC
     {
         static void Main()
         {
-
+            Console.WriteLine("Qual e a sua altura?");
+            double altura = double.Parse(Console.ReadLine());
         }
     }
 }
