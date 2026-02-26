@@ -8,6 +8,11 @@ namespace CALCIMC
         {
             Console.WriteLine("Qual e a sua altura?");
             double altura = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("Qual e seu peso? ");
+            double peso = double.Parse(Console.ReadLine());
+
+            
         }
     }
 }
