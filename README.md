@@ -52,10 +52,9 @@ IMC = peso / (altura × altura)
 
 1. Clone o repositório:
 
-´´
+
 git clone https://github.com/GabeDebug/IMC
 
-´´
 
 2. Acesse a pasta do projeto:
 
